@@ -1,0 +1,28 @@
+.transactions-page {
+    max-width: 900px;
+    margin: 50px auto;
+    font-family: Arial, sans-serif;
+  }
+  
+  .transactions-page h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .transactions-page table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .transactions-page th,
+  .transactions-page td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .transactions-page th {
+    background-color: #007bff;
+    color: white;
+  }
+  
