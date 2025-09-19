@@ -1,5 +1,7 @@
 import API from "../../api/api";
 import './KafkaSimulator.css';
+import React from "react";
+
 
 const KafkaSimulator = () => {
   const sendDummyEvent = async () => {
