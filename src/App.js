@@ -7,7 +7,6 @@ import KafkaSimulator from "./pages/KafkaSimulator/KafkaSimulator";
 import ProtectedRoute from "./components/ProtectedRoute";
 import Sales from "./pages/Sales/Sales";
 import  './App.css';
-import React from "react";
 
 
 function App() {
