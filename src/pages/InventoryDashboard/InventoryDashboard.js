@@ -3,6 +3,8 @@ import API from "../../api/api";
 import { Link } from "react-router-dom";
 import KafkaSimulator from "../KafkaSimulator/KafkaSimulator";
 import './InventoryDashboard.css';
+import React from "react";
+
 
 
 function InventoryDashboard() {
