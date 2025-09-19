@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "https://inventory-backend.onrender.com/api", 
+  baseURL: "https://inventory-backend-u5ld.onrender.com/api", 
 });
 
 // Add JWT token to headers
