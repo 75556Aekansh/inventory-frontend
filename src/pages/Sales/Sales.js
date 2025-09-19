@@ -1,6 +1,8 @@
 import { useEffect, useState } from "react";
 import API from "../../api/api";
 import './Sales.css';
+import React from "react";
+
 
 function Sales() {
   const [productId, setProductId] = useState("");
