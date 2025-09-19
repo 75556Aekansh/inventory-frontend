@@ -35,4 +35,21 @@
   .login-container button:hover {
     background-color: #0056b3;
   }
+
+  .default-creds {
+    margin-top: 15px; 
+  }
+  
+  .default-creds button {
+    background-color: #f0f0f0;
+    color: #333;
+    border: 1px solid #ccc;
+    padding: 6px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .default-creds button:hover {
+    background-color: #e0e0e0;
+  }
   
