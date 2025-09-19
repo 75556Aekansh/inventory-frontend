@@ -1,6 +1,8 @@
 import { useEffect, useState } from "react";
 import API from "../../api/api";
 import './Transactions.css';
+import React from "react";
+
 
 const Transactions = () => {
   const [transactions, setTransactions] = useState([]);
