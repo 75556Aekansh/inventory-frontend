@@ -11,8 +11,8 @@ const KafkaSimulator = () => {
 
   return (
     <div className="kafka-container">
-      <h3>EVENTS STIMULATOR</h3>
-      <button onClick={sendDummyEvent}>Stimulate Events</button>
+      <h3>EVENTS SIMULATOR</h3>
+      <button onClick={sendDummyEvent}>Simulate Events</button>
     </div>
   );
 };
