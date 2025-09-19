@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "http://localhost:3001/api", // backend base URL
+  baseURL: process.env.REACT_APP_API_URL, 
 });
 
 // Add JWT token to headers
